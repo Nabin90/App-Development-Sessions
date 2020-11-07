@@ -1,2 +1,2 @@
-# Machine-Learning-Projects
-Just simple projects regarding the Machine Learning and its applications.
+# App Development Using Flutter(Dart)
+Just simple projects regarding the app development.
